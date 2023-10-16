@@ -8,7 +8,7 @@ public class MyJfram extends JFrame {
     public MyJfram(String title) throws HeadlessException {
         super(title);
         //设置宽高
-        super.setSize(500,500);
+        super.setSize(1000,500);
 
     }
 }
